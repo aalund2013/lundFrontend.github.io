@@ -4,7 +4,7 @@
 ### Currency Converter Links
 * [Currency Converter Application]()
 * [Video Walk-through of Currency Converter]()
-* [Currency Converter Code](https://github.com/aalund2013/CurrencyConverter)
+* [Currency Converter Repository](https://github.com/aalund2013/CurrencyConverter)
 
 
 ### Sleep Outdoors Links
