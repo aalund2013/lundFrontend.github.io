@@ -1,2 +1,3 @@
-# lundFrontend.github.io
-Frontend Web Development II assignments
+# Adrianna Lund's Portfolio
+Frontend Web Development II
+Spring 2022 Block 2
