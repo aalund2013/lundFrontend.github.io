@@ -3,7 +3,7 @@
 
 ### Currency Converter Links
 * [Currency Converter Application](https://aalund2013.github.io/CurrencyConverter/)
-* [Video Walk-through of Currency Converter]()
+* [Video Walk-through of Currency Converter](https://youtu.be/P6nCVu8boh4)
 * [Currency Converter Repository](https://github.com/aalund2013/CurrencyConverter)
 
 
